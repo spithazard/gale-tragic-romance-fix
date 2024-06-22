@@ -1,0 +1,5 @@
+{
+    "RequiredVersion": 15,
+    "ModTable": "Rooni_TragicGaleRomance",
+    "FeatureFlags": ["Lua"]
+}
